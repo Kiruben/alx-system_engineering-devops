@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -a
-ls ../ -a
-ls /boot -a
+ls $(pwd) -a ls ../ -a ls /boot -a
